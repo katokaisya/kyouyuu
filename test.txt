@@ -1,4 +1,7 @@
 ﻿マージ競合のテスト
 入力お願いします
 
-Testで入力してます
+git pull origin master　→最新の状態をダウンロードする。
+git push origin master
+			自分のユーザー名
+			自分のパスワード
